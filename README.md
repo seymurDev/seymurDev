@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Foody Project](https://foody-app-nu.vercel.app/)
 
-- 🌱 I’m currently learning **VueJs, MongoDB**
+- 🌱 I’m currently learning **ExpressJs, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/seymurDev](https://github.com/seymurDev)
 
